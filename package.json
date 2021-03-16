@@ -1,5 +1,5 @@
 {
-  "name": "dawa-util",
+  "name": "@dawadk/dawa-util",
   "version": "0.1.9",
   "description": "Diverse funktioner til brug i forbindelse med anvendelse af DAWA",
   "main": "index.js",
